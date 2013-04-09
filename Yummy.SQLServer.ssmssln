@@ -1,0 +1,11 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Common", "Common\Common.ssmssqlproj", "{5AF4E441-E0E7-4452-B2F4-17950E3F3984}"
+EndProject
+Project("{54D695D8-3FC1-47A3-8D60-959ECE458279}") = "Common.Analysis", "Common.Analysis\Common.Analysis.ssmsasproj", "{33175F2E-CEB5-4716-B4BF-C459E9AFFB2D}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
